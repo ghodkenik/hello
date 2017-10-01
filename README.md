@@ -3,7 +3,7 @@
 
 # ghodkenik comment.. testing to local..
 
-A simple example of Ufront running on the client and the server.
+A simple example of Ufront running on the client and the server abcd...........
 
 For help understanding the example, you can ask our community on one of our [community channels](http://ufront.net/community/) like [gitter](http://gitter.im/ufront/ufront).
 
